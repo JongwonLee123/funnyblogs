@@ -1,0 +1,37 @@
+{
+    "name": "funnyposts",
+    "version": "1.0.0",
+    "description": "A simple blog platform based on Handlebars, Sequelize, Express, and Node. Create an account to log in, post, and comment on posts.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js",
+      "start:dev": "nodemon server",
+      "seed": "node seeds/seed"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/JongwonLee123/funnyposts.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/JongwonLee123/funnyposts/issues"
+    },
+    "homepage": "https://github.com/JongwonLee123/funnyposts#readme",
+    "dependencies": {
+      "bcrypt": "^5.0.0",
+      "connect-session-sequelize": "^7.0.1",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "express-handlebars": "^5.1.0",
+      "express-session": "^1.17.1",
+      "init": "^0.1.2",
+      "mysql2": "^2.1.0",
+      "sequelize": "^6.3.4"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.20"
+    }
+  }

@@ -1,0 +1,26 @@
+[
+    {
+      "username": "user1",
+      "password": "12345678910"
+    },
+    {
+      "username": "user2",
+      "password": "112233445566"
+    },
+    {
+      "username": "user3",
+      "password": "111111111111"
+    },
+    {
+      "username": "user4",
+      "password": "10987654321"
+    },
+    {
+      "username": "user5",
+      "password": "berkeleybuddy"
+    },
+    {
+      "username": "user6",
+      "password": "randomuser"
+    }
+  ]

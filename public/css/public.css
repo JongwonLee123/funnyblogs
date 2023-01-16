@@ -1,0 +1,32 @@
+.customCard {
+    margin: 5px;
+    width: 25rem;
+  }
+  
+  /* Adding a cool colored background */
+  body {
+    background: rgb(62, 71, 217);
+    background: linear-gradient(
+      90deg,
+      rgb(205, 255, 247) 0%,
+      rgb(255, 255, 255) 51%,
+      rgb(180, 255, 193) 100%
+    );
+  }
+  
+
+  
+  /* Specially formats blog post text container for better contrast */
+  .customTextBox {
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 30px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.35);
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.9);
+  }
+  
+  html,
+  body {
+    margin: 0;
+    height: 100%;
+  }

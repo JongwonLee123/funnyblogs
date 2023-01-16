@@ -1,0 +1,32 @@
+[
+    {
+      "author_id": "1",
+      "creation_time": 1702703313000,
+      "title": "Mitch Hedberg",
+      "content": "First post content. I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with 'em later."
+    },
+    {
+      "author_id": "2",
+      "creation_time": 1702703433000,
+      "title": "President Merkin Muffley, Dr. Strangeglove",
+      "content": "Second post content. Gentlemen, you can't fight in here. This is the war room."
+    },
+    {
+      "author_id": "3",
+      "creation_time": 1702703553000,
+      "title": "Betty White as Rose in Golden Girls",
+      "content": "Third post content. My mother always used to say: The older you get, the better you get, unless you're a banana."
+    },
+    {
+      "author_id": "4",
+      "creation_time": 1702703673000,
+      "title": "Jack Handey",
+      "content": "Fourth post content. Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes."
+    },
+    {
+      "author_id": "5",
+      "creation_time": 1702704033000,
+      "title": "Bob and Peter, Office Space",
+      "content": "Fifth post content. Bob: 'Looks like you've been missing a lot of work lately.' Peter: 'I wouldn't say I've been missing it, Bob.'"
+    }
+  ]

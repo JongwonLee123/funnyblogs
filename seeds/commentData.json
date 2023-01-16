@@ -1,0 +1,32 @@
+[
+    {
+      "author_id": "1",
+      "post_id": "1",
+      "creation_time": 1702703313000,
+      "content": "Funny comment example 1"
+    },
+    {
+      "author_id": "2",
+      "post_id": "2",
+      "creation_time": 1702703433000,
+      "content": "Funny comment example 2"
+    },
+    {
+      "author_id": "2",
+      "post_id": "3",
+      "creation_time": 1702703553000,
+      "content": "Funny comment example 3"
+    },
+    {
+      "author_id": "2",
+      "post_id": "4",
+      "creation_time": 1702703673000,
+      "content": "Funny comment example 4"
+    },
+    {
+      "author_id": "3",
+      "post_id": "5",
+      "creation_time": 1702704033000,
+      "content": "Funny comment example 5"
+    }
+  ]
